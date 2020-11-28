@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kvitajin/CLionProjects/vsb/pp/omp/main.cpp
+iostream
+-
+cstdlib
+-
+iostream
+-
+ctime
+-
+stdlib.h
+-
+omp.h
+-
+cmath
+-
+random
+-
+vector
+-
+
